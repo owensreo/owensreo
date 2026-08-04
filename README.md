@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://blueridgesystems.us">
-  <img src="assets/blue-ridge-systems-consulting-logo.svg" alt="Blue Ridge Systems Consulting" width="180" />
+  <img src="assets/blue-ridge-systems-consulting-logo.svg" alt="Blue Ridge Systems Consulting" width="700" />
 </a>
 
 # Ray Owens
