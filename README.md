@@ -26,9 +26,10 @@ My current work includes the **Blue Ridge Nexus** platform, distributed Linux in
 [![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white)](https://rockylinux.org/)
 [![AlmaLinux](https://img.shields.io/badge/AlmaLinux-000000?style=for-the-badge&logo=almalinux&logoColor=white)](https://almalinux.org/)
 [![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)](https://fedoraproject.org/)
+![Podman](https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=white)
 [![Tailscale](https://img.shields.io/badge/Tailscale-111111?style=for-the-badge&logo=tailscale&logoColor=white)](https://tailscale.com/)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+
 
 [![macOS](https://img.shields.io/badge/Optimized%20for-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)
 [![Windows](https://img.shields.io/badge/Supports-Windows%20%7C%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
