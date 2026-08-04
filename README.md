@@ -71,6 +71,6 @@ A curated collection of useful resources for working with freely available LLM A
 
 <div align="center">
 
-**Practical systems. Secure access. Less unnecessary complexity.**
+**Boutique infrastructure consulting experience with practical engineering and human-centered usability.**
 
 </div>
