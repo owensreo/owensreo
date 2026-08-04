@@ -31,6 +31,7 @@ My current work includes the **Blue Ridge Nexus** platform, distributed Linux in
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
 
 
+
 [![macOS](https://img.shields.io/badge/Optimized%20for-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)
 [![Windows](https://img.shields.io/badge/Supports-Windows%20%7C%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows/)
 [![PowerShell](https://img.shields.io/badge/Requires-PowerShell%205.1%2B-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/powershell/)
