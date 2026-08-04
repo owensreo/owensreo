@@ -13,6 +13,8 @@ Building practical, secure, and maintainable infrastructure for small and midsiz
 [![Blue Ridge Systems](https://img.shields.io/badge/Blue%20Ridge-Systems%20Consulting-2563EB?style=for-the-badge)](https://blueridgesystems.us)
 [![Schedule an Intro Call](https://img.shields.io/badge/Schedule-Intro%20Call-0891B2?style=for-the-badge)](https://meet.blueridgesystems.us)
 
+[![Blue Ridge Nexus](https://img.shields.io/badge/Explore-Blue%20Ridge%20Nexus-7C3AED?style=for-the-badge)](https://nexus.blueridgesystems.us)
+
 </div>
 
 ## About Me
