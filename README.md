@@ -1,5 +1,9 @@
 <div align="center">
 
+<a href="https://blueridgesystems.us">
+  <img src="https://raw.githubusercontent.com/owensreo/blue-ridge-r2-backup-dashboard/main/assets/blue-ridge-systems-consulting-logo.svg" alt="Blue Ridge Systems Consulting" width="180" />
+</a>
+
 # Ray Owens
 
 ### IT Consultant · Infrastructure Engineer · Founder of Blue Ridge Systems Consulting
