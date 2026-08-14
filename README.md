@@ -21,9 +21,9 @@
 
 ### I work across Linux, Windows, networking, cloud services, automation, and secure remote operations.
 
-My focus is straightforward: build systems that are dependable, understandable, and useful in the real world without adding unnecessary complexity.
+#### My focus is straightforward: build systems that are dependable, understandable, and useful in the real world without adding unnecessary complexity.
 
-My current work includes the **Blue Ridge Nexus** platform, distributed Linux infrastructure, custom operational dashboards, secure remote access, infrastructure automation, and local-first AI tooling.
+#### My current work includes the **Blue Ridge Nexus** platform, distributed Linux infrastructure, custom operational dashboards, secure remote access, infrastructure automation, and local-first AI tooling.
 
 ## Core Technologies
 
@@ -42,46 +42,46 @@ My current work includes the **Blue Ridge Nexus** platform, distributed Linux in
 
 ### Enterprise infrastructure, secure connectivity, automation, and operational tooling.
 
-- **Enterprise Linux** systems using Rocky Linux, AlmaLinux, RHEL, and Fedora
-- **Rootless Podman** services with systemd-based automation
-- **Secure remote networking** with Tailscale and Cloudflare Zero Trust
-- **Windows Server, Active Directory, Group Policy, Microsoft 365, and Entra ID** solutions
-- **ARM and x86 infrastructure** across physical hosts and virtual machines
-- **Operational dashboards, analytics, monitoring, and support tooling**
-- **Local-first AI workflows** designed to assist infrastructure operations
+#### • **Enterprise Linux** systems using Rocky Linux, AlmaLinux, RHEL, and Fedora
+#### • **Rootless Podman** services with systemd-based automation
+#### • **Secure remote networking** with Tailscale and Cloudflare Zero Trust
+#### • **Windows Server, Active Directory, Group Policy, Microsoft 365, and Entra ID** solutions
+#### • **ARM and x86 infrastructure** across physical hosts and virtual machines
+#### • **Operational dashboards, analytics, monitoring, and support tooling**
+#### • **Local-first AI workflows** designed to assist infrastructure operations
 
 ## Featured Public Projects
 
 ### [macOS Scripts](https://github.com/owensreo/MacOS-Scripts)
-Conservative performance and usability tuning for Apple Silicon and older Intel Macs, with backup and restoration workflows.
+#### Conservative performance and usability tuning for Apple Silicon and older Intel Macs, with backup and restoration workflows.
 
 ### [Raspberry Pi 5](https://github.com/owensreo/raspberry-pi-5)
-Practical Raspberry Pi 5 infrastructure work built around enterprise Linux and real operational use.
+#### Practical Raspberry Pi 5 infrastructure work built around enterprise Linux and real operational use.
 
 ### [Windows Maintenance](https://github.com/owensreo/blue-ridge-windows-maintenance)
-Windows administration and maintenance tooling designed for repeatable support workflows.
+#### Windows administration and maintenance tooling designed for repeatable support workflows.
 
 ### [Free LLM API Resources](https://github.com/owensreo/free-llm-api-resources)
-A curated collection of useful resources for working with freely available LLM APIs.
+#### A curated collection of useful resources for working with freely available LLM APIs.
 
 ## Public Container Images
 
 ### General-purpose OCI container images published through **GitHub Container Registry (GHCR)** and maintained as part of the Blue Ridge Systems container catalog.
 
 ### [Granite Micro Fedora](https://github.com/owensreo/blue-ridge-nexus-containers/blob/main/public-containers/granite-micro-fedora/README.md)
-`ghcr.io/owensreo/granite-micro-fedora:public-latest`
+#### `ghcr.io/owensreo/granite-micro-fedora:public-latest`
 
 ### [Ray Cloudflare Speedtest](https://github.com/owensreo/blue-ridge-nexus-containers/blob/main/public-containers/ray-cloudflare-speedtest/README.md)
-`ghcr.io/owensreo/ray-cloudflare-speedtest:public-latest`
+#### `ghcr.io/owensreo/ray-cloudflare-speedtest:public-latest`
 
 ### [Ray Weather](https://github.com/owensreo/blue-ridge-nexus-containers/blob/main/public-containers/ray-weather/README.md)
-`ghcr.io/owensreo/ray-weather:public-latest`
+#### `ghcr.io/owensreo/ray-weather:public-latest`
 
 ### [REO AI](https://github.com/owensreo/blue-ridge-nexus-containers/blob/main/public-containers/reo-ai/README.md)
-`ghcr.io/owensreo/reo-ai:public-latest`
+#### `ghcr.io/owensreo/reo-ai:public-latest`
 
 ### [REO Tools](https://github.com/owensreo/blue-ridge-nexus-containers/blob/main/public-containers/reo-tools/README.md)
-`ghcr.io/owensreo/reo-tools:public-latest`
+#### `ghcr.io/owensreo/reo-tools:public-latest`
 
 ### [View the full Blue Ridge Public Container Catalog →](https://github.com/owensreo/blue-ridge-nexus-containers/blob/main/public-containers/README.md)
 
@@ -89,11 +89,11 @@ A curated collection of useful resources for working with freely available LLM A
 
 ### Practical infrastructure consulting for small and midsize businesses across the Upstate.
 
-**Blue Ridge Systems Consulting** helps small and midsize businesses simplify infrastructure, improve secure remote access, modernize systems, and gain better visibility into daily operations.
+#### **Blue Ridge Systems Consulting** helps small and midsize businesses simplify infrastructure, improve secure remote access, modernize systems, and gain better visibility into daily operations.
 
-- **Website:** [blueridgesystems.us](https://blueridgesystems.us)
-- **Schedule:** [Schedule an Intro Call](https://meet.blueridgesystems.us)
-- **Service area:** Upstate South Carolina
+#### • **Website:** [blueridgesystems.us](https://blueridgesystems.us)
+#### • **Schedule:** [Schedule an Intro Call](https://meet.blueridgesystems.us)
+#### • **Service area:** Upstate South Carolina
 
 ---
 
