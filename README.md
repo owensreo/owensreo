@@ -62,6 +62,31 @@ Windows administration and maintenance tooling designed for repeatable support w
 ### [Free LLM API Resources](https://github.com/owensreo/free-llm-api-resources)
 A curated collection of useful resources for working with freely available LLM APIs.
 
+## Public Container Images
+
+General-purpose OCI container images published through **GitHub Container Registry (GHCR)** and maintained as part of the Blue Ridge Systems container catalog.
+
+### [Blue Ridge AI Chat](https://github.com/owensreo/blue-ridge-nexus-containers/blob/main/public-containers/blue-ridge-ai-chat/README.md)
+`ghcr.io/owensreo/blue-ridge-ai-chat:public-latest`  
+Small Python HTTP service providing a browser-facing AI chat API.
+
+### [Granite Micro Fedora](https://github.com/owensreo/blue-ridge-nexus-containers/blob/main/public-containers/granite-micro-fedora/README.md)
+`ghcr.io/owensreo/granite-micro-fedora:public-latest`
+
+### [Ray Cloudflare Speedtest](https://github.com/owensreo/blue-ridge-nexus-containers/blob/main/public-containers/ray-cloudflare-speedtest/README.md)
+`ghcr.io/owensreo/ray-cloudflare-speedtest:public-latest`
+
+### [Ray Weather](https://github.com/owensreo/blue-ridge-nexus-containers/blob/main/public-containers/ray-weather/README.md)
+`ghcr.io/owensreo/ray-weather:public-latest`
+
+### [REO AI](https://github.com/owensreo/blue-ridge-nexus-containers/blob/main/public-containers/reo-ai/README.md)
+`ghcr.io/owensreo/reo-ai:public-latest`
+
+### [REO Tools](https://github.com/owensreo/blue-ridge-nexus-containers/blob/main/public-containers/reo-tools/README.md)
+`ghcr.io/owensreo/reo-tools:public-latest`
+
+[**View the full Blue Ridge Public Container Catalog →**](https://github.com/owensreo/blue-ridge-nexus-containers/blob/main/public-containers/README.md)
+
 ## Blue Ridge Systems Consulting
 
 **Blue Ridge Systems Consulting** helps small and midsize businesses simplify infrastructure, improve secure remote access, modernize systems, and gain better visibility into daily operations.
