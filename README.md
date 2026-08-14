@@ -66,10 +66,6 @@ A curated collection of useful resources for working with freely available LLM A
 
 General-purpose OCI container images published through **GitHub Container Registry (GHCR)** and maintained as part of the Blue Ridge Systems container catalog.
 
-### [Blue Ridge AI Chat](https://github.com/owensreo/blue-ridge-nexus-containers/blob/main/public-containers/blue-ridge-ai-chat/README.md)
-`ghcr.io/owensreo/blue-ridge-ai-chat:public-latest`  
-Small Python HTTP service providing a browser-facing AI chat API.
-
 ### [Granite Micro Fedora](https://github.com/owensreo/blue-ridge-nexus-containers/blob/main/public-containers/granite-micro-fedora/README.md)
 `ghcr.io/owensreo/granite-micro-fedora:public-latest`
 
